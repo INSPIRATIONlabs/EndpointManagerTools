@@ -3,10 +3,10 @@
   "display": "standalone",
   "start_url": "/",
   "short_name": "EMT",
-  "theme_color": "#00000",
+  "theme_color": "#E1477E",
   "description": "These are little helpers for EndpointManager administration",
   "orientation": "any",
-  "background_color": "#00000",
+  "background_color": "#E1477E",
   "related_applications": [],
   "prefer_related_applications": false,
   "icons": [

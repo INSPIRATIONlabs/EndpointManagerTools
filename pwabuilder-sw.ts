@@ -9,6 +9,7 @@ self.addEventListener("message", (event: any) => {
 
 
 try {
+
   //@ts-ignore
   precacheAndRoute(self.__WB_MANIFEST);
 }
