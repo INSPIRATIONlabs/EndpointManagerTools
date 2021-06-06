@@ -1,12 +1,12 @@
 {
-  "name": "PWA Starter",
+  "name": "EndpointManager Tools",
   "display": "standalone",
   "start_url": "/",
-  "short_name": "starter",
-  "theme_color": "#E1477E",
-  "description": "This is a PWA Starter app",
+  "short_name": "EMT",
+  "theme_color": "#00000",
+  "description": "These are little helpers for EndpointManager administration",
   "orientation": "any",
-  "background_color": "#E1477E",
+  "background_color": "#00000",
   "related_applications": [],
   "prefer_related_applications": false,
   "icons": [
@@ -28,12 +28,6 @@
     }
   ],
   "screenshots": [
-    {
-      "src": "assets/screenshots/screen.png"
-    },
-    {
-      "src": "assets/screenshots/screen.png"
-    },
     {
       "src": "assets/screenshots/screen.png"
     }

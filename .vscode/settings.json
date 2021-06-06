@@ -2,4 +2,7 @@
   "prettier.configPath": ".prettierrc.js",
   "files.trimTrailingWhitespace": true,
   "js/ts.implicitProjectConfig.experimentalDecorators": true,
+  "staticWebApps.appSubpath": "/",
+  "staticWebApps.apiSubpath": "api",
+  "staticWebApps.outputSubpath": "build",
 }
